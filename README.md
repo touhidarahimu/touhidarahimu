@@ -1,8 +1,8 @@
-
+<img src="banner.png">
 <h1 align="center">Hi 👋, I'm Touhid Ara Himu</h1>
 <h3 align="center">A passionate Web Devloper at Bangladesh.Embarking on my programming and web development journey was a thrilling odyssey. Starting with HTML, CSS, and JavaScript laid the foundation, transforming abstract concepts into tangible digital landscapes. The exploration deepened with frameworks like React and Node.js, enabling the creation of dynamic, user-centric websites. Freelancing amplified practical application, instilling adaptability. Debugging became a routine, fortifying problem-solving skills. My GitHub repository reflects this evolution, each project a milestone in my growth from coding novice to proficient web developer. This journey is an ever-unfolding adventure, fueled by an unwavering passion for innovation within the boundless realms of technology.</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=touhidarahimu&label=Profile views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=touhidarahimu&label=Profile%20views&color=0e75b6&style=flat)" alt="touhidarahimu" /> </p>
+
 
 - 🌱 I’m currently learning **Framework & Mern Stack Devloper course**
 - 💬 Ask me about **HTML,CSS,TALIWIND,BOOTSTRAP,Vit,React Js**
